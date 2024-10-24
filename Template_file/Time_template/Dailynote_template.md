@@ -1,6 +1,6 @@
 ---
 created: 2024-10-24T13:54:47+09:00
-modified: 2024-10-24T14:39:49+09:00
+modified: 2024-10-24T15:34:59+09:00
 status: Not tag
 aliases: 
 tags:
@@ -24,7 +24,7 @@ await dv.view('Markdown/Template_file/scripts/aggregate-day-planner', { filePath
 TABLE
 	tags, 
 	modified
-FROM "markdown"
+FROM "Markdown"
 WHERE file.cday = date("<%tp.date.now("YYYY-MM-DD")%>")
 LIMIT 10
 ```
