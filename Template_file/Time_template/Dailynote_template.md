@@ -1,6 +1,6 @@
 ---
-created: 2024-09-26T18:03:39+09:00
-modified: 2024-10-24T14:34:10+09:00
+created: 2024-10-24T13:54:47+09:00
+modified: 2024-10-24T14:39:49+09:00
 status: Not tag
 aliases: 
 tags:
