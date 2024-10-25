@@ -1,8 +1,9 @@
 ---
 created: 2024-10-21
-modified: 2024-10-25T15:35:05+09:00
+modified: 2024-10-25T15:57:26+09:00
 tags:
   - memo/research/study/FVT
+  - memo/jet
 status: Now Doing
 type: 
 aliases: 

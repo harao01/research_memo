@@ -1,8 +1,9 @@
 ---
 created: 
-modified: 2024-10-21T17:59:07+09:00
+modified: 2024-10-25T15:56:35+09:00
 tags:
   - memo/research/study/VFT
+  - memo/jet
 status: Now Doing
 type: 
 aliases: 
