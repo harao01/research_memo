@@ -4,7 +4,7 @@ modified: 2024-10-17T14:11:29+09:00
 status: Now Doing
 aliases: 
 tags:
-  - memo/learn/Tohtech/reseach/log
+  - memo/research/log
 set_hour: 
 author: 菅原 聡
 ---

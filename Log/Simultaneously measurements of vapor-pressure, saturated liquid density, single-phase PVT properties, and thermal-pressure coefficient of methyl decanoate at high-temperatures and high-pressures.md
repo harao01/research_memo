@@ -3,8 +3,8 @@ created: 2024-09-27T13:21:31+09:00
 modified: 2024-09-30T10:28:46+09:00
 author: 
 tags:
-  - research/survey_調査
-  - research/paper/
+  - memo/research/survey_調査
+  - memo/research/paper/
 status: 
 aliases:
   - 高温高圧下におけるデカン酸メチルの蒸気圧、飽和液体密度、単相PVT特性、熱圧力係数の同時測

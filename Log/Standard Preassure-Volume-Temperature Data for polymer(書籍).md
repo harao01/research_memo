@@ -2,7 +2,7 @@
 created: 2024-09-02T17:29:00
 modified: 2024-10-09T11:35:13+09:00
 tags:
-  - research/reference
+  - memo/research/reference
 status: archive
 type: 
 aliases: 

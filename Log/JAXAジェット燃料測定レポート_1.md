@@ -1,10 +1,11 @@
 ---
 created: 2024-10-15
-modified: 2024-10-22T17:54:57+09:00
+modified: 2024-10-25T15:32:12+09:00
 status: Now Doing
-aliases: []
+aliases: 
 tags:
-  - memo/learn/Tohtech/reseach/log
+  - memo/research/log
+  - memo/jet
 author: 菅原 聡
 測定者:
   - 佐藤善之

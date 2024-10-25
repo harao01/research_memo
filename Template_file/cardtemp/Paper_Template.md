@@ -3,8 +3,8 @@ created: 2024-09-27T13:21:31+09:00
 modified: 2024-09-27T17:08:30+09:00
 author: 
 tags:
-  - research/survey_調査
-  - research/paper/
+  - memo/research/survey_調査
+  - memo/research/paper/
 status: 
 aliases: 
 ---

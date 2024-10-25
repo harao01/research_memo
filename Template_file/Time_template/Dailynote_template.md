@@ -1,10 +1,10 @@
 ---
 created: 2024-10-24T13:54:47+09:00
-modified: 2024-10-25T15:04:55+09:00
+modified: 2024-10-25T15:34:25+09:00
 status: Not tag
 aliases: 
 tags:
-  - memo/learn/Tohtech/reseach/log
+  - memo/research/log/daily
 set_hour: 
 ---
 
@@ -40,16 +40,12 @@ SORT created DESC
 LIMIT 10
 ```
 #### 細かいタスク
-```tasks
-not done
-tags include #task
-LIMIT 10
-```
+
 #### 開始タスク
-- [ ] 前回のログページからコピペする
-- [ ] 前回の記録の確認
 - [ ] [[#読み上げ]]を読む
-- [ ] 今日は何やるか書く
+- [ ] 今日の目標設定
+	- [ ] 前回のログページからコピペする
+	- [ ] 前回の記録の確認
 #### Today doing
 - [ ] 
 #### Next doing

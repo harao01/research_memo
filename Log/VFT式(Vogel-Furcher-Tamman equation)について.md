@@ -2,7 +2,7 @@
 created: 
 modified: 2024-10-21T17:59:07+09:00
 tags:
-  - research/study/VFT
+  - memo/research/study/VFT
 status: Now Doing
 type: 
 aliases: 
