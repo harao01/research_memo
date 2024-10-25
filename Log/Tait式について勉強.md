@@ -2,7 +2,7 @@
 created: 2024-10-17
 modified: 2024-10-21T13:31:34+09:00
 tags:
-  - task/2/study
+  - task/log/study
   - memo/learn
 status: Now Doing
 type: 

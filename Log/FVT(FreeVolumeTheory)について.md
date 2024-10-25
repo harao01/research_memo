@@ -1,6 +1,6 @@
 ---
 created: 2024-10-21
-modified: 2024-10-24T16:34:55+09:00
+modified: 2024-10-25T14:18:45+09:00
 tags:
   - research/study/FVT
 status: Now Doing
@@ -29,7 +29,7 @@ set_hour: 0.5
 		- r-mer
 		- に分割
 	- / C(<1)はセグメント間の束縛に関する定数
-	- [ ] #task 自由度とは  [created:: 2024-10-24]
+	- [ ] #task/other  自由度とは  [created:: 2024-10-24]
 - 系の圧縮や熱膨張は自由体積理論の格子体積変化により表現
 #### FOV
 

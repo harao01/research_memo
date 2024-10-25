@@ -3,7 +3,7 @@ created:
 modified: 2024-10-18T14:45:06+09:00
 〆: 
 tags:
-  - task/2/study
+  - task/log/study
   - memo/learn
 status: Now Doing
 aliases: 

@@ -46,10 +46,10 @@ aliases:
 ![[Markdown/~2024-04-22/機械学習|機械学習]]
 
 - ## わからんかった用語
-- [[主成分分析とは]] #task/2/study/統計 ✅ 2024-09-15
-- [[回帰分析とは]] #task/2/study/統計 
-- [[クラス分類とは]] #task/2/study/統計 
-- [[階層的クラスタリングとは]] #task/2/study/統計 
-- [[非線形の可視化手法について]] #task/2/study/統計 
-- [[計画実験法]] #task/2/study/統計 
-- [[ベイズ最適化]] #task/2/study/統計 
+- [[主成分分析とは]] #task/log/study/統計 ✅ 2024-09-15
+- [[回帰分析とは]] #task/log/study/統計 
+- [[クラス分類とは]] #task/log/study/統計 
+- [[階層的クラスタリングとは]] #task/log/study/統計 
+- [[非線形の可視化手法について]] #task/log/study/統計 
+- [[計画実験法]] #task/log/study/統計 
+- [[ベイズ最適化]] #task/log/study/統計 

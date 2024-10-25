@@ -21,7 +21,7 @@ set_hour:
 - タスク一覧
 	- [ ] 
 ## 本題
-- [x] p.21 #task/2/research
+- [x] p.21 #task/log/research
 	- [ ] gradeってなんだ？
 	- [ ] Mって何を指している？
 	- [ ] ambient conditionsの和訳
