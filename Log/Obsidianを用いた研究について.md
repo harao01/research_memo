@@ -2,7 +2,7 @@
 created: 2024-08-01T13:52:00
 modified: 2024-09-15T04:13:11+09:00
 tags:
-  - how-to
+  - memo/how-to
 status: did
 type: 
 aliases: 

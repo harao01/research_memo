@@ -3,7 +3,7 @@ created: 2024-09-27T13:21:31+09:00
 modified: 2024-09-27T17:08:30+09:00
 author: 
 tags:
-  - memo/research/survey_調査
+  - memo/research/Alkane_PVT
   - memo/research/paper/
 status: 
 aliases: 

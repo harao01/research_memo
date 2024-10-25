@@ -2,8 +2,8 @@
 created: 2024-08-02T15:14:00
 modified: 2024-10-15T14:27:19+09:00
 tags:
-  - memo/research/survey_調査/alkane_PVT/organize
-  - how-to/organize
+  - memo/research/Alkane_PVT/alkane_PVT/organize
+  - memo/how-to/organize
 status: did
 type: 
 aliases: 

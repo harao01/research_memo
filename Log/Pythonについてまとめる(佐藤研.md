@@ -3,7 +3,7 @@ created: 2024-04-12T16:37:00
 modified: 2024-09-17T14:14:36+09:00
 tags:
   - memo/learn/Tohtech/research
-  - memo/ReadingMemo_読書メモ
+  - memo/read
 status: Not doing
 type: 
 aliases: 
