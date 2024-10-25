@@ -1,9 +1,9 @@
 ---
 created: 2024-04-12T18:26:00
-modified: 2024-06-18T12:01:00
+modified: 2024-10-25T15:53:33+09:00
 tags:
   - MOC
-status: fixed
+status: did
 type: 
 aliases: 
 優先_num: 1
