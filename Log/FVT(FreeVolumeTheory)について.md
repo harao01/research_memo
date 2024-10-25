@@ -1,6 +1,6 @@
 ---
 created: 2024-10-21
-modified: 2024-10-25T15:57:26+09:00
+modified: 2024-10-25T16:09:50+09:00
 tags:
   - memo/research/study/FVT
   - memo/jet
