@@ -1,12 +1,13 @@
 ---
 created: 2024-10-24T13:54:47+09:00
-modified: 2024-10-24T15:34:59+09:00
+modified: 2024-10-25T15:04:55+09:00
 status: Not tag
 aliases: 
 tags:
   - memo/learn/Tohtech/reseach/log
 set_hour: 
 ---
+
 
 ### 読み上げ
 1. 論文読みながらメモを取れ。
@@ -39,12 +40,9 @@ SORT created DESC
 LIMIT 10
 ```
 #### 細かいタスク
-```dataview
-TASK
-WHERE 
-	contains(text, "#task/2/research") and
-	!checked
-SORT due DESC
+```tasks
+not done
+tags include #task
 LIMIT 10
 ```
 #### 開始タスク
