@@ -1,9 +1,10 @@
 ---
 created: 2024-10-17
-modified: 2024-10-21T13:31:34+09:00
+modified: 2024-10-25T17:17:14+09:00
 tags:
   - task/log/study
   - memo/learn
+  - memo/laern/equation/tait
 status: Now Doing
 type: 
 aliases: 
@@ -23,7 +24,10 @@ set_hour:
 #### 目的(何を知りたいかなど)
 - 
 ## メモ
-[[Tait式とは]]
+### 佐藤先生メモ
 - tait式では二通りの計算方法がある
 	1. 膨張率($\alpha$)一定とみなして計算する
 	2. 温度多項式を用いて計算する
+
+### 佐藤啓さんメモ
+- [[有機修飾ナノ粒子のPVT測定  ならびに有機修飾鎖の影響評価]]
