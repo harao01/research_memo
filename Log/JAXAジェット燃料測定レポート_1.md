@@ -1,7 +1,7 @@
 ---
 created: 2024-10-15
-modified: 2024-10-25T15:32:12+09:00
-status: Now Doing
+modified: 2024-10-28T12:32:50+09:00
+status: did
 aliases: 
 tags:
   - memo/research/log
