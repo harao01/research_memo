@@ -1,11 +1,10 @@
 ---
 created: 2024-10-17
-modified: 2024-10-25T17:17:14+09:00
+modified: 2024-10-30T12:25:17+09:00
 tags:
-  - task/log/study
   - memo/learn
   - memo/laern/equation/tait
-status: Now Doing
+status: fixed
 type: 
 aliases: 
 set_hour: 
@@ -31,3 +30,9 @@ set_hour:
 
 ### 佐藤啓さんメモ
 - [[有機修飾ナノ粒子のPVT測定  ならびに有機修飾鎖の影響評価]]
+```dataview
+TABLE
+	created
+FROM
+	#memo/laern/equation/tait 
+```

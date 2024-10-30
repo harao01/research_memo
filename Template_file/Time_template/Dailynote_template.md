@@ -1,6 +1,6 @@
 ---
 created: ""
-modified: 2024-10-30T11:58:25+09:00
+modified: 2024-10-30T12:16:43+09:00
 status: Not tag
 aliases: 
 tags:
@@ -62,4 +62,4 @@ due before tomorrow
 #### Did
 - [ ] 
 ## memo
-### 
+- [[<%tp.date.now("YYYY-MM-DD")%>_memo]]
