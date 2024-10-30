@@ -1,6 +1,6 @@
 ---
 created: ""
-modified: 2024-10-30T12:47:11+09:00
+modified: 2024-10-30T15:10:23+09:00
 status: Not tag
 aliases: 
 tags:
