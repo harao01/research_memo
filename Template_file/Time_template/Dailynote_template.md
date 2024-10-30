@@ -1,6 +1,6 @@
 ---
 created: ""
-modified: 2024-10-30T12:16:43+09:00
+modified: 2024-10-30T12:47:11+09:00
 status: Not tag
 aliases: 
 tags:
@@ -14,7 +14,7 @@ set_hour:
 2. 積極性を出せ。質問・相談どんどんして知見を吸収していこう。お礼も忘れずに。
 3. 週二回進捗報告をしよう。週1で報告書提出（金曜）
 4. どんどん新しいファイルを作りながらメモしろ
-## TASK
+## Table
 #### Today created
 ```dataview
 TABLE
@@ -44,22 +44,25 @@ WHERE
 SORT created DESC
 LIMIT 10
 ```
-#### 細かいタスク
-```tasks
-not done 
-due before tomorrow
-```
+## Task
 #### 開始タスク
 - [ ] [[#読み上げ]]を読む
 - [ ] [[../../Log/研究室_TASK|研究室_TASK]]を確認する
 - [ ] 今日の目標設定
 	- [ ] 前回のログページからコピペする
 	- [ ] 前回の記録の確認
-#### Today doing
+#### Now Doing_task
 - [ ] 
-#### Next doing
+#### Next doing_task
 - [ ] 
-#### Did
+#### Did&Archive
 - [ ] 
 ## memo
 - [[<%tp.date.now("YYYY-MM-DD")%>_memo]]
+
+## Now doing
+![[#Now Doing_task]]
+
+
+### Day Planner
+- [ ] 

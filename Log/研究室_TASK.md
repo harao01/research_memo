@@ -6,10 +6,14 @@ aliases:
 参考文献/URL: 
 set_hour: 
 〆: 
-modified: 2024-10-25T15:53:52+09:00
+modified: 2024-10-30T12:44:10+09:00
 created: 2024-10-24T13:54:47+09:00
 ---
-
+#### 期日超過
+```tasks
+not done 
+due before tomorrow
+```
 
 ### jet
 ```tasks
