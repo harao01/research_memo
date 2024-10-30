@@ -27,7 +27,8 @@ LIMIT 10
 #### Fixed
 ```dataview
 TABLE
-	created
+	created, 
+	set_hour
 FROM !"Markdown/Template_file"
 WHERE
 	status = "fixed"
