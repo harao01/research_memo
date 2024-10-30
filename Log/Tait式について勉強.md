@@ -1,6 +1,6 @@
 ---
 created: 2024-10-17
-modified: 2024-10-30T12:25:17+09:00
+modified: 2024-10-30T18:10:44+09:00
 tags:
   - memo/learn
   - memo/laern/equation/tait
@@ -36,3 +36,5 @@ TABLE
 FROM
 	#memo/laern/equation/tait 
 ```
+
+
