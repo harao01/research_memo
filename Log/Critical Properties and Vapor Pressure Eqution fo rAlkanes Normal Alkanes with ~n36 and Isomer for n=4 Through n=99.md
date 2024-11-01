@@ -1,6 +1,6 @@
 ---
 created: 2024-09-27T13:21:31+09:00
-modified: 2024-11-01T13:57:19+09:00
+modified: 2024-11-01T16:43:06+09:00
 author:
   - E. W. Lemmon
   - A. R. H. Goodwin
@@ -14,8 +14,7 @@ annotation-target:
 ---
 ## TASK
 - [ ] タグの修正．ペーパーがどこの論文郡に当てはまるか
-
-[[alkane_reference-data_2024-11-01read]]
+- [[alkane_reference-data_2024-11-01read]]
 ## memo 
 ### abst
 メタンからhexatriacontaneまでの直鎖アルカン
